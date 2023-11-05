@@ -3,7 +3,7 @@
  
  Verifica se é CPF ou CNPJ
  
- @see http://www.tutsup.com/
+ @see http://www.todoespacoonline.com/w/
 */
 function verifica_cpf_cnpj ( valor ) {
 
